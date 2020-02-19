@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="66fd7b72-b941-402a-96ab-6185931ccc14" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SRC/com/coding/bat/DoesItHave1and2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SRC/com/coding/bat/MakeEnds.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SRC/com/coding/bat/Sum2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SRC/com/coding/bat/countEvens.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SRC/com/coding/bat/maxTriple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tests/com/coding/bat/DoesItHave1and2Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tests/com/coding/bat/MakeEndsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tests/com/coding/bat/Sum2Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tests/com/coding/bat/countEvensTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tests/com/coding/bat/maxTripleTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArraysExamples.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ArraysExamples.iml" afterDir="false" />
+    <list default="true" id="66fd7b72-b941-402a-96ab-6185931ccc14" name="Default Changelist" comment="2nd Commit: adding 5 array examples with test codes">
+      <change afterPath="$PROJECT_DIR$/SRC/com/coding/bat/BigDifference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SRC/com/coding/bat/NotAlone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/com/coding/bat/BigDifferenceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/com/coding/bat/NotAloneTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -43,21 +43,35 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Tests/com/coding/bat" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.coding.bat" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Ali\source\repos\Java\GitHub\ArraysExamples\Tests\com\coding\bat" />
       <recent name="C:\Users\Ali\source\repos\Java\GitHub\ArraysExamples\SRC\com\coding\bat" />
       <recent name="C:\Users\Ali\source\repos\Java\GitHub\ArraysExamples\SRC" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.DoesItHave1and2Test">
-    <configuration name="DoesItHave1and2Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.BigDifferenceTest">
+    <configuration name="BigDifferenceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ArraysExamples" />
       <extension name="coverage">
         <pattern>
@@ -66,13 +80,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.coding.bat" />
-      <option name="MAIN_CLASS_NAME" value="com.coding.bat.DoesItHave1and2Test" />
+      <option name="MAIN_CLASS_NAME" value="com.coding.bat.BigDifferenceTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="countEvensTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BigDifferenceTest.getMaxDiff" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ArraysExamples" />
       <extension name="coverage">
         <pattern>
@@ -81,7 +95,55 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.coding.bat" />
-      <option name="MAIN_CLASS_NAME" value="com.coding.bat.countEvensTest" />
+      <option name="MAIN_CLASS_NAME" value="com.coding.bat.BigDifferenceTest" />
+      <option name="METHOD_NAME" value="getMaxDiff" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BigDifferenceTest.getMaxDiff2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ArraysExamples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.coding.bat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.coding.bat" />
+      <option name="MAIN_CLASS_NAME" value="com.coding.bat.BigDifferenceTest" />
+      <option name="METHOD_NAME" value="getMaxDiff2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BigDifferenceTest.getMaxDiff3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ArraysExamples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.coding.bat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.coding.bat" />
+      <option name="MAIN_CLASS_NAME" value="com.coding.bat.BigDifferenceTest" />
+      <option name="METHOD_NAME" value="getMaxDiff3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NotAloneTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ArraysExamples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.coding.bat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.coding.bat" />
+      <option name="MAIN_CLASS_NAME" value="com.coding.bat.NotAloneTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -89,8 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.DoesItHave1and2Test" />
-        <item itemvalue="JUnit.countEvensTest" />
+        <item itemvalue="JUnit.BigDifferenceTest" />
+        <item itemvalue="JUnit.BigDifferenceTest.getMaxDiff3" />
+        <item itemvalue="JUnit.BigDifferenceTest.getMaxDiff2" />
+        <item itemvalue="JUnit.BigDifferenceTest.getMaxDiff" />
+        <item itemvalue="JUnit.NotAloneTest" />
       </list>
     </recent_temporary>
   </component>
@@ -116,7 +181,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582149405532</updated>
-      <workItem from="1582149421134" duration="1150000" />
+      <workItem from="1582149421134" duration="6800000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1582149674885</created>
@@ -125,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582149674885</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2nd Commit: adding 5 array examples with test codes">
+      <created>1582150678635</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1582150678635</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,29 +206,54 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="2nd Commit: adding 5 array examples with test codes" />
+    <option name="LAST_COMMIT_MESSAGE" value="2nd Commit: adding 5 array examples with test codes" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="488" y="86" key="#com.intellij.ide.util.MemberChooser" timestamp="1582155116778">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="488" y="86" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1582155116778" />
     <state x="531" y="259" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1582150061550">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="531" y="259" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.738@0.0.1366.738" timestamp="1582150061550" />
-    <state x="276" y="0" key="CommitChangelistDialog2" timestamp="1582149673513">
+    <state x="276" y="0" key="CommitChangelistDialog2" timestamp="1582150790228">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="276" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1582149673513" />
+    <state x="276" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1582150790228" />
+    <state width="1367" height="189" key="GridCell.Tab.0.bottom" timestamp="1582156264926">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1367" height="189" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1582156264926" />
+    <state width="1367" height="189" key="GridCell.Tab.0.center" timestamp="1582156264925">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1367" height="189" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1582156264925" />
+    <state width="1367" height="189" key="GridCell.Tab.0.left" timestamp="1582156264925">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1367" height="189" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1582156264925" />
+    <state width="1367" height="189" key="GridCell.Tab.0.right" timestamp="1582156264926">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1367" height="189" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1582156264926" />
     <state x="163" y="0" key="SettingsEditor" timestamp="1582150577467">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="163" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1582150577467" />
-    <state x="275" y="103" key="Vcs.Push.Dialog.v2" timestamp="1582149722038">
+    <state x="275" y="103" key="Vcs.Push.Dialog.v2" timestamp="1582150801391">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="275" y="103" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1582149722038" />
+    <state x="275" y="103" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1582150801391" />
     <state x="387" y="263" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1582150265306">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="387" y="263" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.738@0.0.1366.738" timestamp="1582150265306" />
+    <state x="454" y="88" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1582154195894">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="454" y="88" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.738@0.0.1366.738" timestamp="1582154195894" />
   </component>
 </project>
