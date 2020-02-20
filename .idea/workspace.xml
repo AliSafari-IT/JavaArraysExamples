@@ -1,12 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="66fd7b72-b941-402a-96ab-6185931ccc14" name="Default Changelist" comment="2nd Commit: adding 5 array examples with test codes">
-      <change afterPath="$PROJECT_DIR$/SRC/com/coding/bat/BigDifference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SRC/com/coding/bat/NotAlone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tests/com/coding/bat/BigDifferenceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tests/com/coding/bat/NotAloneTest.java" afterDir="false" />
+    <list default="true" id="66fd7b72-b941-402a-96ab-6185931ccc14" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SRC/com/coding/bat/Strings/CountYZ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SRC/com/coding/bat/Strings/gHappy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/com/coding/bat/Strings/CountYZTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/com/coding/bat/Strings/gHappyTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SRC/com/coding/bat/BigDifference.java" beforeDir="false" afterPath="$PROJECT_DIR$/SRC/com/coding/bat/Arrays/BigDifference.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SRC/com/coding/bat/DoesItHave1and2.java" beforeDir="false" afterPath="$PROJECT_DIR$/SRC/com/coding/bat/Arrays/DoesItHave1and2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SRC/com/coding/bat/MakeEnds.java" beforeDir="false" afterPath="$PROJECT_DIR$/SRC/com/coding/bat/Arrays/MakeEnds.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SRC/com/coding/bat/NotAlone.java" beforeDir="false" afterPath="$PROJECT_DIR$/SRC/com/coding/bat/Arrays/NotAlone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SRC/com/coding/bat/Sum2.java" beforeDir="false" afterPath="$PROJECT_DIR$/SRC/com/coding/bat/Arrays/Sum2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SRC/com/coding/bat/countEvens.java" beforeDir="false" afterPath="$PROJECT_DIR$/SRC/com/coding/bat/Arrays/countEvens.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SRC/com/coding/bat/maxTriple.java" beforeDir="false" afterPath="$PROJECT_DIR$/SRC/com/coding/bat/Arrays/maxTriple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/com/coding/bat/BigDifferenceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/com/coding/bat/Arrays/BigDifferenceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/com/coding/bat/DoesItHave1and2Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/com/coding/bat/Arrays/DoesItHave1and2Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/com/coding/bat/MakeEndsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/com/coding/bat/Arrays/MakeEndsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/com/coding/bat/NotAloneTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/com/coding/bat/Arrays/NotAloneTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/com/coding/bat/Sum2Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/com/coding/bat/Arrays/Sum2Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/com/coding/bat/countEvensTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/com/coding/bat/Arrays/countEvensTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/com/coding/bat/maxTripleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/com/coding/bat/Arrays/maxTripleTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +74,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.coding.bat.Strings" />
       <recent name="com.coding.bat" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.coding.bat.Arrays" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -70,92 +89,93 @@
       <recent name="C:\Users\Ali\source\repos\Java\GitHub\ArraysExamples\SRC" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.BigDifferenceTest">
-    <configuration name="BigDifferenceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.CountYZTest.countYZ4">
+    <configuration name="CountYZTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ArraysExamples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.coding.bat.*" />
+          <option name="PATTERN" value="com.coding.bat.Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.coding.bat" />
-      <option name="MAIN_CLASS_NAME" value="com.coding.bat.BigDifferenceTest" />
+      <option name="PACKAGE_NAME" value="com.coding.bat.Strings" />
+      <option name="MAIN_CLASS_NAME" value="com.coding.bat.Strings.CountYZTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BigDifferenceTest.getMaxDiff" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CountYZTest.countYZ1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ArraysExamples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.coding.bat.*" />
+          <option name="PATTERN" value="com.coding.bat.Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.coding.bat" />
-      <option name="MAIN_CLASS_NAME" value="com.coding.bat.BigDifferenceTest" />
-      <option name="METHOD_NAME" value="getMaxDiff" />
+      <option name="PACKAGE_NAME" value="com.coding.bat.Strings" />
+      <option name="MAIN_CLASS_NAME" value="com.coding.bat.Strings.CountYZTest" />
+      <option name="METHOD_NAME" value="countYZ1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BigDifferenceTest.getMaxDiff2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CountYZTest.countYZ2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ArraysExamples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.coding.bat.*" />
+          <option name="PATTERN" value="com.coding.bat.Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.coding.bat" />
-      <option name="MAIN_CLASS_NAME" value="com.coding.bat.BigDifferenceTest" />
-      <option name="METHOD_NAME" value="getMaxDiff2" />
+      <option name="PACKAGE_NAME" value="com.coding.bat.Strings" />
+      <option name="MAIN_CLASS_NAME" value="com.coding.bat.Strings.CountYZTest" />
+      <option name="METHOD_NAME" value="countYZ2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BigDifferenceTest.getMaxDiff3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CountYZTest.countYZ3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ArraysExamples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.coding.bat.*" />
+          <option name="PATTERN" value="com.coding.bat.Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.coding.bat" />
-      <option name="MAIN_CLASS_NAME" value="com.coding.bat.BigDifferenceTest" />
-      <option name="METHOD_NAME" value="getMaxDiff3" />
+      <option name="PACKAGE_NAME" value="com.coding.bat.Strings" />
+      <option name="MAIN_CLASS_NAME" value="com.coding.bat.Strings.CountYZTest" />
+      <option name="METHOD_NAME" value="countYZ3" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NotAloneTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CountYZTest.countYZ4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ArraysExamples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.coding.bat.*" />
+          <option name="PATTERN" value="com.coding.bat.Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.coding.bat" />
-      <option name="MAIN_CLASS_NAME" value="com.coding.bat.NotAloneTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="com.coding.bat.Strings" />
+      <option name="MAIN_CLASS_NAME" value="com.coding.bat.Strings.CountYZTest" />
+      <option name="METHOD_NAME" value="countYZ4" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.BigDifferenceTest" />
-        <item itemvalue="JUnit.BigDifferenceTest.getMaxDiff3" />
-        <item itemvalue="JUnit.BigDifferenceTest.getMaxDiff2" />
-        <item itemvalue="JUnit.BigDifferenceTest.getMaxDiff" />
-        <item itemvalue="JUnit.NotAloneTest" />
+        <item itemvalue="JUnit.CountYZTest.countYZ4" />
+        <item itemvalue="JUnit.CountYZTest" />
+        <item itemvalue="JUnit.CountYZTest.countYZ1" />
+        <item itemvalue="JUnit.CountYZTest.countYZ3" />
+        <item itemvalue="JUnit.CountYZTest.countYZ2" />
       </list>
     </recent_temporary>
   </component>
@@ -181,7 +201,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582149405532</updated>
-      <workItem from="1582149421134" duration="6800000" />
+      <workItem from="1582149421134" duration="15651000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1582149674885</created>
@@ -197,7 +217,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582150678635</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="2nd Commit: adding biggest difference between Maximum and Minimum elements of an array.">
+      <created>1582156380925</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1582156380925</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -207,53 +234,58 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Initial commit" />
     <MESSAGE value="2nd Commit: adding 5 array examples with test codes" />
-    <option name="LAST_COMMIT_MESSAGE" value="2nd Commit: adding 5 array examples with test codes" />
+    <MESSAGE value="2nd Commit: adding biggest difference between Maximum and Minimum elements of an array." />
+    <option name="LAST_COMMIT_MESSAGE" value="2nd Commit: adding biggest difference between Maximum and Minimum elements of an array." />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="488" y="86" key="#com.intellij.ide.util.MemberChooser" timestamp="1582155116778">
+    <state x="488" y="86" key="#com.intellij.ide.util.MemberChooser" timestamp="1582193624321">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="488" y="86" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1582155116778" />
+    <state x="488" y="86" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1582193624321" />
     <state x="531" y="259" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1582150061550">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="531" y="259" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.738@0.0.1366.738" timestamp="1582150061550" />
-    <state x="276" y="0" key="CommitChangelistDialog2" timestamp="1582150790228">
+    <state x="479" y="229" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1582191900236">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="276" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1582150790228" />
-    <state width="1367" height="189" key="GridCell.Tab.0.bottom" timestamp="1582156264926">
+    <state x="479" y="229" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.738@0.0.1366.738" timestamp="1582191900236" />
+    <state x="276" y="0" key="CommitChangelistDialog2" timestamp="1582156379413">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1367" height="189" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1582156264926" />
-    <state width="1367" height="189" key="GridCell.Tab.0.center" timestamp="1582156264925">
+    <state x="276" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1582156379413" />
+    <state width="1367" height="189" key="GridCell.Tab.0.bottom" timestamp="1582211172177">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1367" height="189" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1582156264925" />
-    <state width="1367" height="189" key="GridCell.Tab.0.left" timestamp="1582156264925">
+    <state width="1367" height="189" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1582211172177" />
+    <state width="1367" height="189" key="GridCell.Tab.0.center" timestamp="1582211172176">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1367" height="189" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1582156264925" />
-    <state width="1367" height="189" key="GridCell.Tab.0.right" timestamp="1582156264926">
+    <state width="1367" height="189" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1582211172176" />
+    <state width="1367" height="189" key="GridCell.Tab.0.left" timestamp="1582211172176">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1367" height="189" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1582156264926" />
+    <state width="1367" height="189" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1582211172176" />
+    <state width="1367" height="189" key="GridCell.Tab.0.right" timestamp="1582211172177">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1367" height="189" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1582211172177" />
     <state x="163" y="0" key="SettingsEditor" timestamp="1582150577467">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="163" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1582150577467" />
-    <state x="275" y="103" key="Vcs.Push.Dialog.v2" timestamp="1582150801391">
+    <state x="275" y="103" key="Vcs.Push.Dialog.v2" timestamp="1582156398039">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="275" y="103" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1582150801391" />
+    <state x="275" y="103" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1582156398039" />
     <state x="387" y="263" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1582150265306">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="387" y="263" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.738@0.0.1366.738" timestamp="1582150265306" />
-    <state x="454" y="88" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1582154195894">
+    <state x="454" y="88" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1582193485002">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="454" y="88" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.738@0.0.1366.738" timestamp="1582154195894" />
+    <state x="454" y="88" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.738@0.0.1366.738" timestamp="1582193485002" />
   </component>
 </project>

@@ -1,4 +1,4 @@
-package com.coding.bat;
+package com.coding.bat.Arrays;
 
 import org.junit.jupiter.api.Test;
 

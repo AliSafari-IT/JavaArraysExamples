@@ -1,13 +1,13 @@
-package com.coding.bat;
+package com.coding.bat.Arrays;
 
 public class maxTriple {
     //    Given an array of ints of odd length, look at the first, last,
 //    and middle values in the array and return the largest. The array
 //    length will be a least 1.
 //
-//    com.coding.bat.maxTriple([1, 2, 3]) → 3
-//    com.coding.bat.maxTriple([1, 5, 3]) → 5
-//    com.coding.bat.maxTriple([5, 2, 3]) → 5
+//    com.coding.bat.Arrays.maxTriple([1, 2, 3]) → 3
+//    com.coding.bat.Arrays.maxTriple([1, 5, 3]) → 5
+//    com.coding.bat.Arrays.maxTriple([5, 2, 3]) → 5
     int[] arr = {};
     int len;
 

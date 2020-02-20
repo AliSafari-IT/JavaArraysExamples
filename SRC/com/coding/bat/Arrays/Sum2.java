@@ -1,4 +1,4 @@
-package com.coding.bat;
+package com.coding.bat.Arrays;
 
 public class Sum2 {
     int[] arr = {};

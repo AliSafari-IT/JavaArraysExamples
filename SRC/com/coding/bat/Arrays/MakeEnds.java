@@ -1,4 +1,4 @@
-package com.coding.bat;
+package com.coding.bat.Arrays;
 
 public class MakeEnds {
     //Given an array of ints, return a new array length 2 containing the first and last elements from the original array.
